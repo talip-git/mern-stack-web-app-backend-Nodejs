@@ -1,3 +1,5 @@
+# Mern stack social media app with mongodb,react,node and express
+- This is the backend of the project.
 ## How to start the app
 - First you need to install the dependencies to your local computer with **npm install**
 - You need to create a cluster in your mondogb atlas.
