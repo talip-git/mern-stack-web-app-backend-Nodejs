@@ -1,4 +1,4 @@
-# Mern stack social media app with mongodb,react,node and express
+# Mern Stack Social Media App With Mongodb,React,Node and Express
 - This is the backend of the project.
 ## How to start the app
 - First you need to install the dependencies to your local computer with **npm install**
