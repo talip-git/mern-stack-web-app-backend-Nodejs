@@ -8,4 +8,4 @@
 
 ### Important
 - If you want to test the api than you need to install a third party tool like **Postman**
-- Or you can test with your own code by using **axios**
+- Or you can test with your own code by using **axios** 
